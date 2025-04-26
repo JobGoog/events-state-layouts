@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import ShopItem from './ShopItem';
-import './ListView.css';
+
 
 export default function ListView({ items }) {
   return (

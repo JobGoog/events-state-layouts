@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import './ShopItem.css';
+
 
 export default function ShopItem({ product }) {
   const { img, name, color, price } = product;

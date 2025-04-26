@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import ShopCard from './ShopCard';
-import './CardsView.css';
+
 
 export default function CardsView({ cards }) {
   return (

@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import './ShopCard.css';
+
 
 export default function ShopCard({ product }) {
   const { img, name, color, price } = product;
